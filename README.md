@@ -1,6 +1,6 @@
 ## Hello, I'm Will :)
 
-- 🔭 I’m currently working on Human Right First - Blue Witness
+- 🔭 I’m currently working on Human Rights First - Blue Witness
 - 🌱 I’m currently learning Ant Design
 - 👯 I’m looking to collaborate on Node.js
 - 🤔 I’m looking for help with my job search
