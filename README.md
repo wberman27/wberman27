@@ -1,12 +1,12 @@
-## Hello! My name is Will :)
+## Hello, I'm Will :)
 
 - 🔭 I’m currently working on Human Right First - Blue Witness
 - 🌱 I’m currently learning Ant Design
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on Node.js
+- 🤔 I’m looking for help with my job search
+- 💬 Ask me about my cat!
 - 📫 How to reach me: https://www.linkedin.com/in/williamberman/
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play drums!
 
 <a href="https://github.com/wberman27">
