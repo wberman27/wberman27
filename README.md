@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I like to ride motorcycles
 
 <a href="https://github.com/wberman27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wberman27&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wberman27&theme=buefy&show_icons=true&count_private=true" />
